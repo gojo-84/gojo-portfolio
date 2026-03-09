@@ -304,6 +304,7 @@ body {
     }
     .hero-text h1 {
         font-size: 3rem;
+        margin-top: 50px;
     }
     .hero-image img {
         width: 280px;
